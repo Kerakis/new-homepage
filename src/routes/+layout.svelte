@@ -4,7 +4,6 @@
 	import { LightSwitch } from '@skeletonlabs/skeleton';
 	import { initializeStores, Drawer, getDrawerStore } from '@skeletonlabs/skeleton';
 	import type { DrawerSettings, DrawerStore } from '@skeletonlabs/skeleton';
-
 	initializeStores();
 
 	const drawerStore = getDrawerStore();
