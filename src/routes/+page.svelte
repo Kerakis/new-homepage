@@ -2,6 +2,10 @@
 	import { Accordion, AccordionItem } from '@skeletonlabs/skeleton';
 </script>
 
+<svelte:head>
+	<title>Kerakis</title>
+</svelte:head>
+
 <div class="container h-full mx-auto flex flex-col justify-evenly items-center">
 	<div class="mx-auto">
 		<h1 class="h1">
