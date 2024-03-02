@@ -58,6 +58,18 @@
 			</div></a
 		>
 
+		<a href="https://promos.kerakis.online/" target="_blank" rel="noreferrer"
+			><div
+				class="card card-hover bg-gradient-to-br variant-gradient-secondary-tertiary text-white"
+			>
+				<header class="card-header">Am I Special?</header>
+				<section class="p-4">
+					Wouldn't it be neat to easily find out if there are any date-stamped promo cards that have
+					your birthday on them? Now you can!
+				</section>
+			</div></a
+		>
+
 		<a href="https://ventura.kerakis.online" target="_blank" rel="noreferrer"
 			><div
 				class="card card-hover bg-gradient-to-br variant-gradient-secondary-tertiary text-white"
