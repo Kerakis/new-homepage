@@ -58,6 +58,17 @@
 			</div></a
 		>
 
+		<a href="https://scrymox.kerakis.online" target="_blank" rel="noreferrer"
+			><div
+				class="card card-hover bg-gradient-to-br variant-gradient-secondary-tertiary text-white"
+			>
+				<header class="card-header">Transform This!</header>
+				<section class="p-4">
+					Quickly transform a Scryfall query into an importable list of cards for Moxfield.
+				</section>
+			</div></a
+		>
+
 		<a href="https://converter.kerakis.online" target="_blank" rel="noreferrer"
 			><div
 				class="card card-hover bg-gradient-to-br variant-gradient-secondary-tertiary text-white"
